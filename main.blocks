@@ -1,1 +1,37 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id="Fzy_/n}6.de|z:RCj8T$" x="0" y="0"><field name="NAME">Button.B</field></block><block type="device_button_event" id="e.C+_EgtSudrG}Q`xC*k" x="-336" y="37"><field name="NAME">Button.A</field></block><block type="device_random" id="Y`Y!WXt8!z-f~S!F0l?*" disabled="true" x="-267" y="186"><value name="min"><shadow type="math_number" id="bW0)P8ZZPClDpMjp5_HE" disabled="true"><field name="NUM">1</field></shadow></value><value name="limit"><shadow type="math_number" id="zxKBprh{HKuN#|D@w0]C" disabled="true"><field name="NUM">6</field></shadow></value></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id="Pn?LSjLX[6K;pJqAZA=]" x="30" y="-28"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_show_number" id="zhYXwnFR|hKT3~h$k71K"><value name="number"><shadow type="math_number" id="1F*tcm(e0I%34NhuicHI"><field name="NUM">9</field></shadow></value><next><block type="device_show_number" id="bBqU2GPWc^T6j!VIcURb"><value name="number"><shadow type="math_number" id="d=@}*[XF=VMDUHNvD@cL"><field name="NUM">8</field></shadow></value><next><block type="device_show_number" id="NH@3$oHJf~mPP0ZY[R{]"><value name="number"><shadow type="math_number" id="GUJ$fCW/Xwt[si-:+es_"><field name="NUM">7</field></shadow></value><next><block type="device_show_number" id="qya6trUR7II(jli#-i%f"><value name="number"><shadow type="math_number" id="BS3b9$_2{I)%WDc+{7)C"><field name="NUM">6</field></shadow></value><next><block type="device_show_number" id="nY?~t?(JIcrFp_M7Gg;N"><value name="number"><shadow type="math_number" id="7F[@6y$X#w6Te1NM|SyP"><field name="NUM">5</field></shadow></value><next><block type="device_show_number" id="bP0Mn.EK7YVx~YrY[cRZ"><value name="number"><shadow type="math_number" id="AGRO|z^d0fI:JU3GfQd2"><field name="NUM">4</field></shadow></value><next><block type="device_show_number" id="9jnllgjCaNoZW$}3$o:m"><value name="number"><shadow type="math_number" id="]KSe*U.;e=@7Z_.u1*r_"><field name="NUM">3</field></shadow></value><next><block type="device_show_number" id="Z.i|ByZrY^C,Rzzl2U2n"><value name="number"><shadow type="math_number" id="g/|,D0.z9T[bE$`*unmV"><field name="NUM">2</field></shadow></value><next><block type="device_show_number" id="DEw7o]84Tfg(H=}EG)^W"><value name="number"><shadow type="math_number" id=",Q5R$#wf%1K(@Rwm2[Zn"><field name="NUM">1</field></shadow></value><next><block type="device_show_number" id="oC0uC*{RB0]*sE-}:D:B"><value name="number"><shadow type="math_number" id="W6?|Qo!JCBQ=s2d?}+rO"><field name="NUM">0</field></shadow></value><next><block type="device_show_leds" id="(*97}m4.-O4^ZI$(.fnY"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="BrDu|d%g+Gu3G%RPGrug"><field name="LEDS">`
+        . . . . . 
+        . . # . . 
+        . # . # . 
+        . . # . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="j%M?}|UKRB#SH6BqQwKK"><field name="LEDS">`
+        . . # . . 
+        . # . # . 
+        # . . . # 
+        . # . # . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="ph;blRa/mkwm(xB{N36*"><field name="LEDS">`
+        . # . # . 
+        # . . . # 
+        . . . . . 
+        # . . . # 
+        . # . # .
+        `</field><next><block type="device_show_leds" id="m=w,Ff]:yveVCKmlaQ#C"><field name="LEDS">`
+        # . . . # 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        # . . . #
+        `</field><next><block type="device_show_leds" id="_a~;HR|Sdh2{VcJ}Bz@q"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="device_button_event" id="$B_`vbl[$qCvg8%ZU`3?" x="-304" y="35"><field name="NAME">Button.A</field></block><block type="device_random" id="QkcVf~Nwyzw%TV9(}m{O" disabled="true" x="-284" y="90"><value name="min"><shadow type="math_number" id="@O@Jq35Y1~T8c#IJM;,R" disabled="true"><field name="NUM">1</field></shadow></value><value name="limit"><shadow type="math_number" id="uQX#Rz2,,Ya3uZ2Clp=U" disabled="true"><field name="NUM">6</field></shadow></value></block></xml>
